@@ -17,11 +17,13 @@ Run it with `./fractol <mandelbrot/julia/burningship>`
 
 ## Keys
 
+`For all fractal :`
+
 * Zoom on cursor : <kbd>Right click</kbd> or <kbd>Left click</kbd>
 * Change maximum iteration : <kbd>[</kbd> or <kbd>]</kbd>
 * Change Colors : <kbd>1</kbd> to <kbd>3</kbd>
 
-`Bonus for Julia`
+`Julia Only :`
 
 * Directly change julia parameters : <kbd>Move cursor</kbd>
 * Pause it : <kbd>P</kbd>
